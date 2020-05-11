@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>
 <html>
 	<head>
 	<meta charset="utf-8">
@@ -106,7 +105,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 					   				<div class="slider-text-inner js-fullheight">
 					   					<div class="desc">
 						   					<h1>Hi! <br>I'm Katy</h1>
-											<p><a href="https://drive.google.com/open?id=1ExbeC6kk8SFnYq-XKw4-YqEyhT-3tUuT">View Resume <i class="icon-download4"></i></a></p>
+											<p><a href="https://drive.google.com/open?id=14KslkMlnS1QtIPJNNp6nK55iBwVDzVsC">View Resume <i class="icon-download4"></i></a></p>
 											
 										</div>
 					   				</div>
@@ -143,7 +142,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						<div class="col-md-12">
 							<div class="about-desc">
 								<h2 class="colorlib-heading" id='about'>About</h2>
-								<p><strong>Hi I'm Katy Torres:</strong> I am a diligent Data Scientist, with 5 years of professional analytical experience. Skilled in statistical methods, analytical techniques and software. Deep understanding of several statistical models. Proven track record of organizing and managing a multitude of difficult projects simultaneously and delivering them complete and on time. </p> 
+								<p><strong>Hi I'm Katy Torres:</strong> I am a diligent Data Scientist, with 5 years of professional analytical experience. I am skilled in statistical methods, analytical techniques and software. I have a deep understanding of several statistical models. As well as a proven track record of organizing and managing a multitude of difficult projects simultaneously and delivering them complete and on time. </p> 
 								<p>Exceptional problem-solving, reporting, and communication skills.</p>
 								<p><strong>Technical:</strong> R, SQL, Tableau, SAS, Java, SPSS, Advanced MS Excel, Visual Basic, MS Access. </p>
 							</div>
